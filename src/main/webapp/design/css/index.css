@@ -1,0 +1,50 @@
+html {
+    background-image: url('./images/img2.jpg');
+    webkit-background-size: cover;
+    moz-background-size: cover;
+    o-background-size: cover;
+    background-size: cover;
+}
+
+table {
+    width: 70%;
+    border-style: outset;
+    border-color: ghostwhite;
+}
+
+td {
+    text-align: left;
+    padding: 8px;
+    color: black;
+    font-family: Papyrus;
+    background-color: lightgray;
+}
+
+th {
+    text-align: left;
+    padding: 8px;
+    color: ghostwhite;
+    font-family: Papyrus;
+    background-color: dimgray;
+    font-size: larger;
+}
+
+form {
+    padding-left: 2px;
+    padding-top: 10px;
+}
+
+input {
+    font-family: Papyrus;
+}
+
+h1 {
+    font-family: Papyrus;
+    color: ghostwhite;
+    padding-left: 500px;
+    font-size: 60px;
+}
+
+
+
+
